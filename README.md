@@ -89,16 +89,22 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 Profit prediction:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/dadbe887-e775-4cc0-ac06-038bd2a16ccc)
+
 Function:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/104d20d2-bb34-458b-abe4-dae78d341410)
+
 GRADIENT DESCENT:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/1cf7956a-264f-4843-9f5b-1701e57987c8)
+
 COST FUNCTION USING GRADIENT DESCENT:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/beeab19d-57e8-43e4-9601-30b1b3530cb9)
+
 LINEAR REGRESSION USING PROFIT PREDICTION:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/44cc7c8c-05c2-42e9-aade-6cbc5b332f07)
+
 PROFIT PREDICTION FOR A POPULATION OF 35000:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/5d53c5b1-0886-4115-80d1-cb595ca1b5e3)
+
 PROFIT PREDICTION FOR A POPULATION OF 70000:
 ![image](https://github.com/jhaganb/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/63654882/bb377991-472d-4a7b-a72b-cc3b50e5ea4a)
 
